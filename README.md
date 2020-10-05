@@ -36,6 +36,13 @@ cd LibreOffice.Calc.Ref.20201005130116/src
 ./run.sh
 ```
 
+# Notes
+
+* You have to click the ʻEnable Content` button every time you open a file
+	* To update the reference data
+
+![note0](https://github.com/ytyaru/Shell.SeatingChart.20200925092353/blob/master/doc/note0.png?raw=true)
+
 # Author
 
 ytyaru
