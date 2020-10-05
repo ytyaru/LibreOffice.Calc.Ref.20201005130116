@@ -11,13 +11,6 @@
 ='file:///tmp/work/LibreOffice.Calc.Ref.20201005130116/src/namelist.ods'#$namelist.A2
 ```
 
-# 注意
-
-* ファイルを開くたび毎回`Enable Content`ボタンをクリックせねばならない
-    * 参照データを最新にするために
-
-![note0](https://github.com/ytyaru/LibreOffice.Calc.Ref.20201005130116/blob/master/doc/note0.png?raw=true)
-
 # 開発環境
 
 * <time datetime="2020-10-05T13:00:50+0900">2020-10-05</time>
@@ -42,6 +35,13 @@ git clone https://github.com/ytyaru/LibreOffice.Calc.Ref.20201005130116
 cd LibreOffice.Calc.Ref.20201005130116/src
 ./run.sh
 ```
+
+# 注意
+
+* ファイルを開くたび毎回`Enable Content`ボタンをクリックせねばならない
+    * 参照データを最新にするために
+
+![note0](https://github.com/ytyaru/LibreOffice.Calc.Ref.20201005130116/blob/master/doc/note0.png?raw=true)
 
 # 著者
 
