@@ -14,9 +14,9 @@
 # 注意
 
 * ファイルを開くたび毎回`Enable Content`ボタンをクリックせねばならない
-	* 参照データを最新にするために
+    * 参照データを最新にするために
 
-![note0](https://github.com/ytyaru/Shell.SeatingChart.20200925092353/blob/master/doc/note0.png?raw=true)
+![note0](https://github.com/ytyaru/LibreOffice.Calc.Ref.20201005130116/blob/master/doc/note0.png?raw=true)
 
 # 開発環境
 
